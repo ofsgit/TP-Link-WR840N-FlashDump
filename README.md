@@ -46,11 +46,3 @@ Examples include:
 ## 🎯 Purpose
 
 This repository is intended to provide a firmware dump for TP-Link WR840N V6 / V6.2 routers, particularly for firmware recovery, restoration, and experimentation.
-
-## 📄 License
-
-Refer to the repository's license and firmware redistribution terms before redistributing or modifying the included firmware.
-
-🎯 Purpose
-
-This repository is intended to provide a firmware dump for TP-Link WR840N V6 / V6.2 routers, particularly for firmware recovery, restoration, and experimentation.
